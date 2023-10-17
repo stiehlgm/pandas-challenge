@@ -2,7 +2,7 @@
 
 # Challenge Report 
 
-# Summary for schhol budget and grades.
+# Summary for school budget and grades.
 
 According to this data it seems to be true that with higher budgets comes higher test scores across all student grade levels. Schools either district or charter that had a higher budget per student showed higher average test scores in math and reading.
 
